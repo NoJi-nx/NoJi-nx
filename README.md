@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-ffde21?style=for-the-badge&logo=mongodb&logoColor=white)]
+![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-ffde21?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black)
 
 
 <!--
