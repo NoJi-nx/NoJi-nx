@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[!MongoDB](https://custom-icon-badges.demolab.com/badge/-Javascript-ffde21?style=for-the-badge&logo=javascript&logoColor=white)
-
+[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-ffde21?style=for-the-badge&logo=mongodb&logoColor=white)]
 
 
 <!--
