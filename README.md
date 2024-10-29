@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoWidth=30&logoColor=black)
-
-![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=flat)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=flat-square)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=for-the-badge)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=plastic)
 
 <!--
 **NoJi-nx/NoJi-nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
