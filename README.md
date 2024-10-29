@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Javascript](https://custom-icon-badges.demolab.com/badge/-Javascript-47A248?style=for-the-badge&logo=javascript&logoColor=white)]
+(https://custom-icon-badges.demolab.com/badge/-Javascript-ffde21?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 
